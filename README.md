@@ -5,7 +5,7 @@ In this Challenge, you are tasked with creating a Python script to analyse the f
 #### Objectives
 The purpose of this challenge is to create a Python script that analyses finnancial records of my company based on a dataset provided. The aim is to create a code that calculates each of the following values:
 
-![Screen shot of dataset for PyBank](/pybank%20data%20ss.png)
+![Screen shot of dataset for PyBank](pybank%20pypoll%20ss/pybank%20data%20ss.png)
 
 * The total number of months included in the dataset
 
