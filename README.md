@@ -30,7 +30,7 @@ The purpose of this challenge is to create a Python script that analyses finnanc
 * Printed the results in the terminal window.
 * Created a .txt file with requested analysis.
 
-![analysis.txt screen shot](/pybank%20analysis%20txt.png)
+![analysis.txt screen shot](pybank%20pypoll%20ss/pybank%20analysis%20txt.png)
 
 # PyPoll :writing_hand:
 In this Challenge, you are tasked with helping a small, rural U.S. town modernise its vote-counting process.
@@ -39,7 +39,7 @@ You will be given a set of poll data called election_data.csv. The dataset is co
 #### Objectives
 The purpose of this challenge is to create a Python script that analyses votes based on a dataset provided. The aim is to create a code that calculates each of the following values:
 
-![Screen shot of dataset for PyPoll](/pypoll%20data%20ss.png)
+![Screen shot of dataset for PyPoll](pybank%20pypoll%20ss/pypoll%20data%20ss.png)
 
 * The total number of votes cast
 
@@ -66,7 +66,7 @@ The purpose of this challenge is to create a Python script that analyses votes b
 * Printed the results in the terminal window.
 * Created a .txt file with requested analysis.
 
-![analysis.txt screen shot](/pypoll%20alanysis%20txt.png)
+![analysis.txt screen shot](pybank%20pypoll%20ss/pypoll%20alanysis%20txt.png)
 
 #### Technologies used
 * *Visual Studio Code - **Python** Software*
